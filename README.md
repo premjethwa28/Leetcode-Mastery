@@ -16,3 +16,15 @@ We believe in the power of learning together. Feel free to contribute your solut
 Clone this repository, explore our solutions, and unravel the secrets of algorithmic problem-solving. Start your LeetCode Mastery adventure today!
 
 Happy Coding! 🚀📚 #LeetCodeMastery #AlgorithmAnalysis #CodingSolutions
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0020-valid-parentheses) |
+<!---LeetCode Topics End-->
