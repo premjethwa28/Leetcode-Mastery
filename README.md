@@ -35,4 +35,16 @@ Happy Coding! 🚀📚 #LeetCodeMastery #AlgorithmAnalysis #CodingSolutions
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0021-merge-two-sorted-lists) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0062-unique-paths) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
