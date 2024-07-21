@@ -47,4 +47,32 @@ Happy Coding! 🚀📚 #LeetCodeMastery #AlgorithmAnalysis #CodingSolutions
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0062-unique-paths) |
+## Array
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0493-reverse-pairs) |
+## Binary Search
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0493-reverse-pairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
