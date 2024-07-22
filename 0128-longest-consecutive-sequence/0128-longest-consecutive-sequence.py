@@ -3,9 +3,11 @@ class Solution:
 
     def longestConsecutive(self, a: List[int]) -> int:
         n = len(a)
+        if n == 0:
+            return 0
 
         a.sort()
-        longest = 0
+        longest = 1
         lastSmaller = float('-inf')
         cnt = 0
 
