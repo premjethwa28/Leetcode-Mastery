@@ -51,6 +51,7 @@ Happy Coding! 🚀📚 #LeetCodeMastery #AlgorithmAnalysis #CodingSolutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0001-two-sum) |
+| [0018-4sum](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0018-4sum) |
 | [0493-reverse-pairs](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0493-reverse-pairs) |
 ## Binary Search
 |  |
@@ -80,4 +81,12 @@ Happy Coding! 🚀📚 #LeetCodeMastery #AlgorithmAnalysis #CodingSolutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0001-two-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0018-4sum](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0018-4sum) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
