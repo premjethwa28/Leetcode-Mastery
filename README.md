@@ -23,6 +23,7 @@ Happy Coding! 🚀📚 #LeetCodeMastery #AlgorithmAnalysis #CodingSolutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0020-valid-parentheses) |
+| [0696-count-binary-substrings](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0696-count-binary-substrings) |
 ## Stack
 |  |
 | ------- |
@@ -87,6 +88,7 @@ Happy Coding! 🚀📚 #LeetCodeMastery #AlgorithmAnalysis #CodingSolutions
 |  |
 | ------- |
 | [0018-4sum](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0018-4sum) |
+| [0696-count-binary-substrings](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0696-count-binary-substrings) |
 ## Sorting
 |  |
 | ------- |
