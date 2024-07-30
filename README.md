@@ -55,6 +55,7 @@ Happy Coding! 🚀📚 #LeetCodeMastery #AlgorithmAnalysis #CodingSolutions
 | [0001-two-sum](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0128-longest-consecutive-sequence) |
 | [0493-reverse-pairs](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0493-reverse-pairs) |
 ## Binary Search
@@ -92,11 +93,13 @@ Happy Coding! 🚀📚 #LeetCodeMastery #AlgorithmAnalysis #CodingSolutions
 | ------- |
 | [0018-4sum](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0075-sort-colors) |
 | [0696-count-binary-substrings](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0696-count-binary-substrings) |
 ## Sorting
 |  |
 | ------- |
 | [0018-4sum](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0075-sort-colors) |
 ## Union Find
 |  |
 | ------- |
