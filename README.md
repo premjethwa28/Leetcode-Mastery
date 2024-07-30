@@ -42,6 +42,7 @@ Happy Coding! 🚀📚 #LeetCodeMastery #AlgorithmAnalysis #CodingSolutions
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0062-unique-paths) |
 ## Dynamic Programming
 |  |
@@ -57,6 +58,7 @@ Happy Coding! 🚀📚 #LeetCodeMastery #AlgorithmAnalysis #CodingSolutions
 | [0001-two-sum](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0128-longest-consecutive-sequence) |
 | [0493-reverse-pairs](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0493-reverse-pairs) |
@@ -111,4 +113,8 @@ Happy Coding! 🚀📚 #LeetCodeMastery #AlgorithmAnalysis #CodingSolutions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0003-longest-substring-without-repeating-characters) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
