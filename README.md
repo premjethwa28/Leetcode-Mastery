@@ -49,6 +49,7 @@ Happy Coding! 🚀📚 #LeetCodeMastery #AlgorithmAnalysis #CodingSolutions
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0062-unique-paths) |
+| [0198-house-robber](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0198-house-robber) |
 ## Combinatorics
 |  |
 | ------- |
@@ -64,6 +65,7 @@ Happy Coding! 🚀📚 #LeetCodeMastery #AlgorithmAnalysis #CodingSolutions
 | [0075-sort-colors](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0198-house-robber) |
 | [0493-reverse-pairs](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0493-reverse-pairs) |
 | [0733-flood-fill](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0733-flood-fill) |
 ## Binary Search
