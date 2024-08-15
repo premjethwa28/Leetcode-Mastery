@@ -61,6 +61,7 @@ Happy Coding! 🚀📚 #LeetCodeMastery #AlgorithmAnalysis #CodingSolutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0004-median-of-two-sorted-arrays) |
 | [0018-4sum](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0048-rotate-image) |
@@ -74,11 +75,13 @@ Happy Coding! 🚀📚 #LeetCodeMastery #AlgorithmAnalysis #CodingSolutions
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0074-search-a-2d-matrix) |
 | [0493-reverse-pairs](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0493-reverse-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
