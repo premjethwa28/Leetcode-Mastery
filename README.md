@@ -70,6 +70,7 @@ Happy Coding! 🚀📚 #LeetCodeMastery #AlgorithmAnalysis #CodingSolutions
 | [0048-rotate-image](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0198-house-robber) |
@@ -117,6 +118,7 @@ Happy Coding! 🚀📚 #LeetCodeMastery #AlgorithmAnalysis #CodingSolutions
 | [0018-4sum](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0088-merge-sorted-array) |
 | [0696-count-binary-substrings](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0696-count-binary-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0908-middle-of-the-linked-list) |
 ## Sorting
@@ -124,6 +126,7 @@ Happy Coding! 🚀📚 #LeetCodeMastery #AlgorithmAnalysis #CodingSolutions
 | ------- |
 | [0018-4sum](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0169-majority-element) |
 ## Union Find
 |  |
