@@ -26,6 +26,7 @@ Happy Coding! 🚀📚 #LeetCodeMastery #AlgorithmAnalysis #CodingSolutions
 | [0013-roman-to-integer](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0020-valid-parentheses) |
 | [0696-count-binary-substrings](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0696-count-binary-substrings) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Stack
 |  |
 | ------- |
@@ -114,6 +115,7 @@ Happy Coding! 🚀📚 #LeetCodeMastery #AlgorithmAnalysis #CodingSolutions
 | [0013-roman-to-integer](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0169-majority-element) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -161,6 +163,7 @@ Happy Coding! 🚀📚 #LeetCodeMastery #AlgorithmAnalysis #CodingSolutions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0169-majority-element) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Breadth-First Search
 |  |
 | ------- |
