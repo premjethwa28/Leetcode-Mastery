@@ -51,10 +51,12 @@ Happy Coding! 🚀📚 #LeetCodeMastery #AlgorithmAnalysis #CodingSolutions
 | [0013-roman-to-integer](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0198-house-robber) |
 ## Combinatorics
 |  |
@@ -163,4 +165,8 @@ Happy Coding! 🚀📚 #LeetCodeMastery #AlgorithmAnalysis #CodingSolutions
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0733-flood-fill) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
