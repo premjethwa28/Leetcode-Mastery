@@ -172,4 +172,8 @@ Happy Coding! 🚀📚 #LeetCodeMastery #AlgorithmAnalysis #CodingSolutions
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/0070-climbing-stairs) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/premjethwa28/Leetcode-Mastery/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
